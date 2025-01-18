@@ -1,4 +1,4 @@
-# buzzline-01-case
+# buzzline-01-jaya
 
 This project introduces streaming data. 
 The Python language includes generators - we'll use this feature to generate some streaming buzzline messages. 
@@ -17,10 +17,10 @@ Detailed instructions by operating system are provided.
 5. Turn on VS Code File / Autosave.
 6. Install VS Code Extensions (see instructions)
 
-For detailed instructions, see:
+
 
 - [SETUP-MAC-LINUX.md](docs/SETUP-MAC-LINUX.md)
-- [SETUP-WINDOWS.md](docs/SETUP-WINDOWS.md)
+
 
 ## Python Versions (3.11 for this course)
 
@@ -30,7 +30,7 @@ You are encouraged to install both and practice multiple versions.
 If space is an issue, we only need 3.11 in this course. 
 For more information, See [PYTHON-VERSIONS.md](docs/PYTHON-VERSIONS.md).
 
-## Task 2. Copy This Example Project & Change `case` to `yourname` (customized)
+## Task 2. Copy This Example Project & Change `case` to `jaya` (customized)
 
 Once the tools are installed, copy/fork this project into your GitHub account
 and create your own version of this project to run and experiment with. 
@@ -63,17 +63,11 @@ In VS Code, open a terminal.
 Use the commands below to activate .venv, and run the generator as a module. 
 To learn more about why we run our Python file as a module, see [PYTHON-PKG-IMPORTS](docs/PYTHON-PKG-IMPORTS.md) 
 
-Windows PowerShell:
-
-```shell
-.venv\Scripts\activate
-py -m producers.basic_producer_case
-```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m producers.basic_producer_case
+python3 -m producers.basic_producer_jaya
 ```
 
 ## Task 5. Monitor an Active Log File (Terminal 2)
@@ -84,16 +78,12 @@ This project has a consumer that reads and processes our own log file as log mes
 In VS Code, open a NEW terminal in your root project folder. 
 Use the commands below to activate .venv, and run the file as a module. 
 
-Windows:
-```shell
-.venv\Scripts\activate
-py -m consumers.basic_consumer_case
-```
+
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m consumers.basic_consumer_case
+python3 -m consumers.basic_consumer_jaya
 ```
 
 ## Save Space
@@ -106,3 +96,10 @@ We will get a good amount of practice.
 This project is licensed under the MIT License as an example project. 
 You are encouraged to fork, copy, explore, and modify the code as you like. 
 See the [LICENSE](LICENSE.txt) file for more.
+
+# To run new scripts
+source .venv/bin/activate
+python3 -m consumers.basic_consumer_jaya
+
+source .venv/bin/activate
+python3 -m producers.basic_prodcuer_jaya
