@@ -36,3 +36,41 @@
 2025-01-17 18:28:21.768 | INFO     | __main__:main:114 - I just shared a movie! It was weird.
 2025-01-17 18:28:24.769 | INFO     | __main__:main:114 - I just tried an app! It was boring.
 2025-01-17 18:28:27.771 | INFO     | __main__:main:114 - I just loved a trick! It was amazing.
+2025-01-17 18:36:14.559 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs/project_log.log
+2025-01-17 18:46:13.327 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs/project_log.log
+2025-01-17 18:46:13.328 | INFO     | __main__:main:106 - START producer...
+2025-01-17 18:46:13.328 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-17 18:46:13.328 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 18:46:13.328 | INFO     | __main__:main:114 - I just seeing a instagram! It was hungry.
+2025-01-17 18:46:16.334 | INFO     | __main__:main:114 - I just seeing crypto! It was happy.
+2025-01-17 18:46:19.337 | INFO     | __main__:main:114 - I just sharing a instagram! It was too amazing.
+2025-01-17 18:46:22.342 | INFO     | __main__:main:114 - I just seeing confused! It was too amazing.
+2025-01-17 18:46:25.349 | INFO     | __main__:main:114 - I just never tired complicated course! It was too amazing.
+2025-01-17 18:46:28.352 | INFO     | __main__:main:114 - I just finding crypto! It was hungry.
+2025-01-17 18:46:31.353 | INFO     | __main__:main:114 - I just seeing confused! It was cranky.
+2025-01-17 18:46:34.357 | INFO     | __main__:main:114 - I just finding a instagram! It was too amazing.
+2025-01-17 18:46:37.361 | INFO     | __main__:main:114 - I just loving complicated course! It was too amazing.
+2025-01-17 18:46:40.366 | INFO     | __main__:main:114 - I just seeing a show! It was not funny.
+2025-01-17 18:46:43.372 | INFO     | __main__:main:114 - I just seeing a instagram! It was not funny.
+2025-01-17 18:46:46.377 | INFO     | __main__:main:114 - I just seeing a instagram! It was not funny.
+2025-01-17 18:46:49.380 | INFO     | __main__:main:114 - I just seeing complicated course! It was cranky.
+2025-01-17 18:46:52.386 | INFO     | __main__:main:114 - I just loving confused! It was cranky.
+2025-01-17 18:46:55.391 | INFO     | __main__:main:114 - I just sharing confused! It was too amazing.
+2025-01-17 18:46:58.397 | INFO     | __main__:main:114 - I just loving a show! It was cranky.
+2025-01-17 18:47:01.402 | INFO     | __main__:main:114 - I just loving complicated course! It was not funny.
+2025-01-17 18:47:04.404 | INFO     | __main__:main:114 - I just never tired confused! It was too amazing.
+2025-01-17 18:47:07.405 | INFO     | __main__:main:114 - I just seeing confused! It was too amazing.
+2025-01-17 18:47:10.410 | INFO     | __main__:main:114 - I just finding confused! It was not funny.
+2025-01-17 18:47:13.411 | INFO     | __main__:main:114 - I just seeing a instagram! It was happy.
+2025-01-17 18:47:16.417 | INFO     | __main__:main:114 - I just seeing a show! It was too amazing.
+2025-01-17 18:47:19.423 | INFO     | __main__:main:114 - I just finding a show! It was cranky.
+2025-01-17 18:47:22.427 | INFO     | __main__:main:114 - I just never tired a show! It was cranky.
+2025-01-17 18:47:25.432 | INFO     | __main__:main:114 - I just seeing crypto! It was cranky.
+2025-01-17 18:47:28.382 | INFO     | __main__:main:114 - I just loving complicated course! It was cranky.
+2025-01-17 18:47:31.388 | INFO     | __main__:main:114 - I just finding complicated course! It was not funny.
+2025-01-17 18:47:34.391 | INFO     | __main__:main:114 - I just never tired crypto! It was hungry.
+2025-01-17 18:47:37.394 | INFO     | __main__:main:114 - I just seeing complicated course! It was too amazing.
+2025-01-17 18:47:40.399 | INFO     | __main__:main:114 - I just never tired confused! It was happy.
+2025-01-17 18:47:43.402 | INFO     | __main__:main:114 - I just finding a show! It was too amazing.
+2025-01-17 18:47:46.405 | INFO     | __main__:main:114 - I just finding confused! It was cranky.
+2025-01-17 18:47:49.411 | INFO     | __main__:main:114 - I just finding a show! It was not funny.
